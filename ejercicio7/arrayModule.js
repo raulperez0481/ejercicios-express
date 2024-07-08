@@ -1,0 +1,1 @@
+export const arrayDeCeros = new Array(10).fill(0);
